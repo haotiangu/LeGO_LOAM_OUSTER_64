@@ -55,7 +55,7 @@ You can use the following commands to download and compile the package.This pack
 
   ```
   cd ~/catkin_ws/src
-  git clone https://github.com/haotiangu/LeGO-LOAM-ouster64.git
+  git clone https://github.com/haotiangu/LeGO_LOAM_OUSTER_64.git
   cd ..
   catkin_make -j1
   ```
